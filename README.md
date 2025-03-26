@@ -1,6 +1,6 @@
 # 🕵️‍♂️ Digital Forensics Ultimate Toolkit
 
-![Digital Forensics Exploration](<div class="tenor-gif-embed" data-postid="25515357" data-share-method="host" data-aspect-ratio="1.79775" data-width="100%"><a href="https://tenor.com/view/digital-forensics-gif-25515357">Digital Forensics GIF</a>from <a href="https://tenor.com/search/digital+forensics-gifs">Digital Forensics GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
+![Digital Forensics Exploration](https://ibb.co/S4mZh35W)
 
 ## 🚨 Comprehensive Digital Forensics Toolkit
 
