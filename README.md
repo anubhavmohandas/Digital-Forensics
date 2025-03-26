@@ -5,16 +5,49 @@
 ## 🚨 Comprehensive Digital Forensics Toolkit
 
 ### 📚 Table of Contents
+## 📚 Table of Contents
+
 1. [Disk Forensics Tools](#-disk-forensics-tools)
+   - [Disk Imaging & Cloning Tools](#-disk-imaging--cloning-tools)
+   - [Specialized File System & Partition Analysis](#-specialized-file-system--partition-analysis)
+   - [Metadata & Hash Analysis](#-metadata--hash-analysis)
+
 2. [Memory Forensics Tools](#-memory-forensics-tools)
+   - [Memory Acquisition Techniques](#-memory-acquisition-techniques)
+   - [Malware Detection in Memory](#-malware-detection-in-memory)
+
 3. [Network Forensics Tools](#-network-forensics-tools)
+   - [Advanced Packet Analysis](#-advanced-packet-analysis)
+   - [Intrusion Detection](#️-intrusion-detection)
+
 4. [Mobile Forensics Tools](#-mobile-forensics-tools)
+   - [Comprehensive Mobile Extraction](#-comprehensive-mobile-extraction)
+   - [Android-Specific Tools](#-android-specific-tools)
+   - [iOS Forensics](#-ios-forensics)
+
 5. [Malware Forensics Tools](#-malware-forensics-tools)
-6. [Cloud Forensics Tools](#-cloud-forensics-tools)
+   - [Static Analysis](#-static-analysis)
+   - [Dynamic Analysis](#-dynamic-analysis)
+
+6. [Cloud Forensics Tools](#️-cloud-forensics-tools)
+   - [Cloud Monitoring](#-cloud-monitoring)
+
 7. [Email Forensics Tools](#-email-forensics-tools)
-8. [Advanced Techniques](#-advanced-forensics-techniques)
-9. [Legal & Ethical Considerations](#-legal-and-ethical-guidelines)
-10. [Training & Certification](#-professional-training-and-certifications)
+   - [Email Header Analysis](#-email-header-analysis)
+
+8. [Professional Training & Certifications](#-professional-training--certifications)
+   - [Recommended Certifications](#-recommended-certifications)
+   - [Learning Resources](#-learning-resources)
+
+9. [Legal & Ethical Guidelines](#️-legal-and-ethical-guidelines)
+   - [Key Principles](#️-key-principles)
+
+10. [Contribution Guidelines](#-contribution-guidelines)
+    - [How to Contribute](#-how-to-contribute)
+
+11. [Connect with Us](#-connect-with-us)
+    - [Community Links](#-community-links)
+    - [Contact](#-contact)
 
 ## 🛠 Disk Forensics Tools
 
